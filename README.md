@@ -26,6 +26,7 @@
     ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
     ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
     ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+    ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
 - Back-end:
   
     ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
@@ -55,10 +56,14 @@
 ## Stats
 &nbsp;
 <img align="left" width = 50% src="https://github-readme-stats.vercel.app/api?username=PedroBzra&show_icons=true&theme=dark&locale=en" alt="PedroBzra" /></p><img align="left" width= 40% src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBzra&show_icons=true&theme=dark&locale=en&layout=compact" alt="PedroBzra" />
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+
 
 ## ALERT 
+
+
 <div align = center>
-  
+
+    
 ![image](https://github.com/user-attachments/assets/849fb830-99cd-41af-b067-2346590fe3da)
 </div>
