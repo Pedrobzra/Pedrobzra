@@ -18,10 +18,3 @@
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-  
-## Stats
-&nbsp;
-<img align="left" width = 50% src="https://github-readme-stats.vercel.app/api?username=PedroBzra&show_icons=true&theme=dark&locale=en" alt="PedroBzra" />
-<img align="left" width= 40% src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroBzra&show_icons=true&theme=dark&locale=en&layout=compact" alt="PedroBzra" />
-
